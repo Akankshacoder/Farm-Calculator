@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: #FFE57F;
+    font-variant: small-caps;
+  }
+  lbl{
+    margin-bottom: 20px;
+  }
+  
+  .ibox{
+    background-color: #76FF03;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
